@@ -38,3 +38,28 @@ Si es posible, añade capturas de pantalla o registros de errores.
 ### Información adicional
 
 Cualquier otra información relevante.
+
+---
+name: Reporte de Bug
+about: Reporta un error para ayudarnos a mejorar
+title: "[BUG] - "
+labels: bug
+assignees: tu_usuario
+---
+
+## Descripción del bug
+Describe brevemente el problema.
+
+## Pasos para reproducir
+1. Ir a '...'
+2. Hacer clic en '...'
+3. Ver el error
+
+## Comportamiento esperado
+Describe qué debería pasar.
+
+## Capturas de pantalla
+Si aplica, sube imágenes.
+
+## Info adicional
+Agrega cualquier otro dato.
