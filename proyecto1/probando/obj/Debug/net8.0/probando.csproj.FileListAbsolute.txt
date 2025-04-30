@@ -1,0 +1,15 @@
+/workspaces/miSegundaChamba/proyecto1/probando/bin/Debug/net8.0/probando
+/workspaces/miSegundaChamba/proyecto1/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/miSegundaChamba/proyecto1/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/miSegundaChamba/proyecto1/probando/bin/Debug/net8.0/probando.dll
+/workspaces/miSegundaChamba/proyecto1/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.dll
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/miSegundaChamba/proyecto1/probando/obj/Debug/net8.0/ref/probando.dll
